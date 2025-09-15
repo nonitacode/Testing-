@@ -104,7 +104,7 @@ def queuemarkup(_, vidid, chat_id):
             ),
         ],
        # [InlineKeyboardButton( text="๏ ᴍᴏʀᴇ ๏",url="https://t.me/BRANDED_WORLD",
-            ),],
+            
     ]
 
     return buttons
