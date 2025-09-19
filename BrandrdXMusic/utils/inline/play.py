@@ -79,7 +79,7 @@ def stream_markup_timer(_, vidid, chat_id, played, dur):
              [
             InlineKeyboardButton(
                 text=f"{bar2}",
-                callback_data="GetTimer",
+                url="https://t.me/+fxUhsbQVqXA5MzJl",
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
